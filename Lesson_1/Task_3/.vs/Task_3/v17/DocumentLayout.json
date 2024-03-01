@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\Netology\\Lesson_1\\Task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE3D818-7E87-4CB0-88C5-107A8D0FC739}|Task_3.vcxproj|\\\\Mac\\Home\\Desktop\\Netology\\Lesson_1\\Task_3\\Task_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_3.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\Netology\\Lesson_1\\Task_3\\Task_3.cpp",
+              "RelativeDocumentMoniker": "Task_3.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\Netology\\Lesson_1\\Task_3\\Task_3.cpp",
+              "RelativeToolTip": "Task_3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T07:59:13.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
